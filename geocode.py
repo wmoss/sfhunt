@@ -4,7 +4,7 @@ from shapely.geometry import Point
 from urllib import urlencode
 
 with open('GOOGLE_API_KEY') as fp:
-    PARAMETERS_BASE = {'key': fp.read() }
+    PARAMETERS_BASE = {'key': fp.read().strip() }
 GEOCODE_URL = "https://maps.googleapis.com/maps/api/geocode/json?"
 
 # Distance Matrix
