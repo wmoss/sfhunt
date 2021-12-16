@@ -1,0 +1,78 @@
+Clue #,Clue,Answer,Address,Validate Address,Confidence,Point Value,Mini Hunt,Notes,Badge
+1,Cover Your Ears,Pettit & Martin Real Estate (South Entrance),"101 California Street, SF",Click Me,High,10,FALSE,,U30
+2,On the Run,"El Inmigrante Mural, Time is 3:01 +- 1m","Shotwell and 23rd, San Francisco, CA 94109",Click Me,Medium,15,TRUE,,SAT55
+3,(cocoa)^(cacao),Giradelli square,"900 North Point St Suite 52, San Francisco, CA 94109",Click Me,High,5,FALSE,,S45
+4,Bus Stop,Bus Stop (bar),"1901 Union St San Francisco, CA 94123",Click Me,High,10,FALSE,,SP55
+5,Holy Sounds,SwedenBorgIan Church,"2454 Hyde St, San Francisco, CA 94109",Click Me,High,5,FALSE,,
+6,Cheers to Art,Madrone Art Bar,"500 Divisadero St, San Francisco, CA 94117",Click Me,High,10,FALSE,,SP55
+7,Criss' Companion,Prayerbook Cross,"655-733 John F Kennedy Dr, San Francisco, CA 94118",Click Me,High,10,FALSE,,
+8,WHEEL,Windy Street in Potrero,Vermont St & 20th St,Click Me,High,5,FALSE,,
+9,Training Round,Ace's Bar,"998 Sutter St, San Francisco, CA 94109",Click Me,Medium,10,FALSE,,
+10,,"Folsom St. Foundary (Text: C or D,B,D,D,C)","1425 Folsom St, San Francisco, CA 94103",Click Me,High,20,FALSE,,SAT55
+11,Baby Emoji,Palace Hotel (Text: 1969 or 1984),"2 New Montgomery St, San Francisco, CA 94105",Click Me,High,5,FALSE,,U30
+12,Oui Chef,Petit Crenn,"609 Hayes St, San Francisco, CA 94102",Click Me,High,5,FALSE,,
+13,Aloha,Liholiho Yacht Club,"871 sutter street, san francisco, 94109",Click Me,Low,5,FALSE,,
+14,Ya Botched It!,Duboce Park,"Duboce Park, San Francisco, CA 94117",Click Me,High,10,TRUE,,SP55
+15,We Like to Party,Boom Boom Room,"1601 Fillmore St, San Francisco, CA 94115",Click Me,High,5,FALSE,,
+16,Punk Protests,Amoeba Music,"1855 Haight St, San Francisco, CA 94117",Click Me,High,5,FALSE,,
+17,Cowabunga Dude,Grandview Park,"1705 14th Ave San Francisco, CA 94122",Click Me,Low,10,FALSE,,
+18,Lakeside Views,Portals of the Past,"760 John F Kennedy Dr San Francisco, CA 94122",Click Me,High,10,FALSE,,D40
+19,Homer's Power Source,Dynamo Donut,"2760 24th St, San Francisco, CA 94110",Click Me,High,5,FALSE,,S45
+20,Image investigator,"Photo Order: 21, 34, 55, 89, 144","740 Valencia St, San Francisco, CA 94110",Click Me,High,15,FALSE,,S45
+21,(In bed),Benkyodo,"1747 Buchanan St, San Francisco, CA 94115",Click Me,High,10,FALSE,,S45
+22,Three Points,2454 is the missing number,"2454 Market St, San Francisco, CA 94114",Click Me,High,5,TRUE,,
+23,S'mores and more,REI,"840 Brannan St, San Francisco, CA 94103",Click Me,High,10,TRUE,,SP55
+24,Smithsonian or MomA,Tenderloin Museum,"398 Eddy St, San Francisco, CA 94102",Click Me,High,5,FALSE,,
+25,Wayback Machine,Internet Archive,"300 Funston Ave, San Francisco, CA 94118",Click Me,High,5,FALSE,,
+26,SAT Math,57,"57 Miley St, San Francisco, CA 94123",Click Me,High,20,FALSE,"24, mi sqrt(5)/3r, le, 1/2, y, 5 or 7 = x",SAT55
+27,Taco Mission,Tacolicious,"741 Valencia St, San Francisco, CA 94110",Click Me,High,10,FALSE,,SP55
+28,Lebowski's lawn,SF Lawn Bowling Club,"320 Bowling Green Dr, San Francisco, CA 94122",Click Me,High,5,FALSE,,
+29,Smarter than 5th grader,,"344 The Embarcadero, San Francisco, CA 94105",Click Me,Low,25,FALSE,,SAT55
+30,conical hundred,the thing on the guys monument,"Century Pl, San Francisco, CA 94104",Click Me,High,5,TRUE,,
+31,shh. not a peep.,Peephole Cinema,"280 Orange Alley, San Francisco, CA 94110",Click Me,High,10,FALSE,,D40
+32,"Oh, Romeo",Shakespeare Garden,"335 Martin Luther King Jr Dr, San Francisco, CA 94118",Click Me,High,5,TRUE,,
+33,Peanuts and crackerjacks,Oracle Park,"24 Willie Mays Plaza, San Francisco, CA 94107",Click Me,High,5,TRUE,,
+34,Solved,,,Click Me,High,,FALSE,,
+35,ten ZITS,Citrus Club,"2823, 1790 Haight St, San Francisco, CA 94117",Click Me,High,15,FALSE,,
+36,tree course opera,Tosca Cafe,"242 Columbus Ave, San Francisco, CA 94133",Click Me,High,10,FALSE,,
+37,,Stern Grove Concert Meadow,"Stern Grove Festival, 19th Avenue and, Sloat Blvd, San Francisco, CA 94132",Click Me,High,15,FALSE,,
+38,,"Anagram of: BABBLEBACHLANKYTONE, 5, 7, 7","678 Beach Blanket Babylon Boulevard, San Francisco, CA 94133",Click Me,High,15,FALSE,Statue in sf for hamurrabi,
+39,I've Got It,"Eureka, Michael Jordan, https://www.instagram.com/p/BSHKLMpAJsr/ (Starr King Open Space Preserve)","1215 Carolina St, San Francisco, CA 94107",Click Me,Low,10,FALSE,,A25
+40,Z 340,SF Chronicle,"901 Mission St, San Francisco, CA 94103",Click Me,High,10,FALSE,Could be SF Examiner,U30
+41,Tommy Boy,Farley's,"1315 18th St, San Francisco, CA 94107",Click Me,High,5,TRUE,,
+42,Natl Fitness,National Fitness Campaign,"1400 Jefferson St, San Francisco, CA 94123",Click Me,High,15,FALSE,,
+43,Eden,White Crane Springs,"1620 7th Ave, San Francisco, CA 94122",Click Me,High,10,FALSE,sing a song,
+44,Building with urine,Columbus Tower,"900 Kearny St, San Francisco, CA 94133",Click Me,High,5,FALSE,,
+45,Solved,,,Click Me,High,,FALSE,,
+46,Not even,Odd Fellows Temple,"90 7th St, San Francisco, CA 94103",Click Me,High,5,FALSE,,
+47,A True Emerald,Esmerelda State Park,"Winfield St & Esmeralda Ave, San Francisco, CA 94110",Click Me,High,10,FALSE,,D40
+48,Cemetary Buddy,Korean War Memorial,"Korean War Memorial, Lincoln Blvd, San Francisco, CA 94129",Click Me,High,5,FALSE,,U30
+49,Bar Code,Finnegan's Wake,"937 Cole St, San Francisco, CA 94117",Click Me,High,5,TRUE,,
+50,run brain,A runner's mind,"3575 Sacramento St, San Francisco, CA 94118",Click Me,High,10,FALSE,,SP55
+51,Balancing Act,Circus Center,"755 Frederick St, San Francisco, CA 94117",Click Me,High,5,FALSE,,
+52,Carl Lewis,Carl & Willard,"301 Carl St, San Francisco, CA 94117",Click Me,Medium,10,FALSE,,D40
+53,Enlightening,Diamond Heights,"199 Museum Way, San Francisco, CA 94114",Click Me,Low,5,FALSE,,
+54,Act Math,19th & Lawton,"19th & Lawton, san francisco, ca",Click Me,Medium,20,FALSE,"x=17, y=-1",
+55,Dust in the Wind,San Francisco National Cemetery,"1 Lincoln Blvd, San Francisco, CA 94129",Click Me,Medium,15,FALSE,,SAT55
+56,Gazing Out,Robin Williams,"1051 Market St, San Francisco, CA 94103",Click Me,High,5,FALSE,,A25
+57,Original Mobius Bread,Tartine Bakery,"600 Guerrero St, San Francisco, CA 94110",Click Me,Medium,10,FALSE,,S45
+58,Spock On,Vulcan Stairs,"Vulcan Stairs, San Francisco, CA 94114",Click Me,High,5,FALSE,,
+59,Perspective,Part of Us / Crooked Street,"1099 Lombard St, San Francisco, CA 94109",Click Me,Medium,10,FALSE,,
+60,Worth of a gold,,"Spire, Arguello Blvd, San Francisco, CA 94129",Click Me,High,10,FALSE,,S45
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,21,,,,,,,
+,,34,,,,,,,
+,,55,,,,,,,
+,,89,,,,,,,
+,,144,,,,,,,

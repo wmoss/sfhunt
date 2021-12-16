@@ -1,0 +1,2245 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>The Hunt 2019</name>
+    <description>The Hunt 2019 Clues, on a map</description>
+    <visibility>1</visibility>
+    <Style id="miniHuntStyle_red">
+      <IconStyle>
+        <color>ffff0000</color>
+        <scale>1.0</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="miniHuntStyle_ylw">
+      <IconStyle>
+        <color>ffff0000</color>
+        <scale>1.0</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/ylw-stars.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="miniHuntStyle_grn">
+      <IconStyle>
+        <color>ffff0000</color>
+        <scale>1.0</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/grn-stars.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="miniHuntStyle_orange">
+      <IconStyle>
+        <color>ffff0000</color>
+        <scale>1.0</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/orange-stars.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="miniHuntStyle_wht">
+      <IconStyle>
+        <color>ffff0000</color>
+        <scale>1.0</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-stars.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="regularStyle_red">
+      <IconStyle>
+        <scale>1.0</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/red-blank.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="regularStyle_ylw">
+      <IconStyle>
+        <scale>1.0</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="regularStyle_grn">
+      <IconStyle>
+        <scale>1.0</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="regularStyle_orange">
+      <IconStyle>
+        <scale>1.0</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/orange-blank.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="regularStyle_wht">
+      <IconStyle>
+        <scale>1.0</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>Regular Clues</name>
+      <visibility>1</visibility>
+      <Placemark>
+        <name>Pettit &amp; Martin Real Estate (South Entrance)</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_ylw</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>1</value>
+          </Data>
+          <Data name="Clue">
+            <value>Cover Your Ears</value>
+          </Data>
+          <Data name="Answer">
+            <value>Pettit &amp; Martin Real Estate (South Entrance)</value>
+          </Data>
+          <Data name="Address">
+            <value>101 California Street, SF</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>10</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value>U30</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.397723,37.793345</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Giradelli square</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_grn</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>3</value>
+          </Data>
+          <Data name="Clue">
+            <value>(cocoa)^(cacao)</value>
+          </Data>
+          <Data name="Answer">
+            <value>Giradelli square</value>
+          </Data>
+          <Data name="Address">
+            <value>900 North Point St Suite 52, San Francisco, CA 94109</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>5</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value>S45</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.422376,37.805674</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bus Stop (bar)</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_ylw</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>4</value>
+          </Data>
+          <Data name="Clue">
+            <value>Bus Stop</value>
+          </Data>
+          <Data name="Answer">
+            <value>Bus Stop (bar)</value>
+          </Data>
+          <Data name="Address">
+            <value>1901 Union St San Francisco, CA 94123</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>10</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value>SP55</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.430699,37.797608</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SwedenBorgIan Church</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_grn</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>5</value>
+          </Data>
+          <Data name="Clue">
+            <value>Holy Sounds</value>
+          </Data>
+          <Data name="Answer">
+            <value>SwedenBorgIan Church</value>
+          </Data>
+          <Data name="Address">
+            <value>2454 Hyde St, San Francisco, CA 94109</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>5</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.419782,37.803661</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Madrone Art Bar</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_ylw</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>6</value>
+          </Data>
+          <Data name="Clue">
+            <value>Cheers to Art</value>
+          </Data>
+          <Data name="Answer">
+            <value>Madrone Art Bar</value>
+          </Data>
+          <Data name="Address">
+            <value>500 Divisadero St, San Francisco, CA 94117</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>10</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value>SP55</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.437324,37.774243</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Prayerbook Cross</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_ylw</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>7</value>
+          </Data>
+          <Data name="Clue">
+            <value>Criss' Companion</value>
+          </Data>
+          <Data name="Answer">
+            <value>Prayerbook Cross</value>
+          </Data>
+          <Data name="Address">
+            <value>655-733 John F Kennedy Dr, San Francisco, CA 94118</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>10</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.477786,37.771313</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Windy Street in Potrero</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_grn</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>8</value>
+          </Data>
+          <Data name="Clue">
+            <value>WHEEL</value>
+          </Data>
+          <Data name="Answer">
+            <value>Windy Street in Potrero</value>
+          </Data>
+          <Data name="Address">
+            <value>Vermont St &amp; 20th St</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>5</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.404026,37.759572</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ace's Bar</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_ylw</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>9</value>
+          </Data>
+          <Data name="Clue">
+            <value>Training Round</value>
+          </Data>
+          <Data name="Answer">
+            <value>Ace's Bar</value>
+          </Data>
+          <Data name="Address">
+            <value>998 Sutter St, San Francisco, CA 94109</value>
+          </Data>
+          <Data name="Confidence">
+            <value>Medium</value>
+          </Data>
+          <Data name="Point Value">
+            <value>10</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.416774,37.788436</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Folsom St. Foundary (Text: C or D,B,D,D,C)</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_wht</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>10</value>
+          </Data>
+          <Data name="Clue">
+            <value></value>
+          </Data>
+          <Data name="Answer">
+            <value>Folsom St. Foundary (Text: C or D,B,D,D,C)</value>
+          </Data>
+          <Data name="Address">
+            <value>1425 Folsom St, San Francisco, CA 94103</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>20</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value>SAT55</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.412969,37.772334</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palace Hotel (Text: 1969 or 1984)</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_grn</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>11</value>
+          </Data>
+          <Data name="Clue">
+            <value>Baby Emoji</value>
+          </Data>
+          <Data name="Answer">
+            <value>Palace Hotel (Text: 1969 or 1984)</value>
+          </Data>
+          <Data name="Address">
+            <value>2 New Montgomery St, San Francisco, CA 94105</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>5</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value>U30</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.402045,37.788450</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Petit Crenn</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_grn</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>12</value>
+          </Data>
+          <Data name="Clue">
+            <value>Oui Chef</value>
+          </Data>
+          <Data name="Answer">
+            <value>Petit Crenn</value>
+          </Data>
+          <Data name="Address">
+            <value>609 Hayes St, San Francisco, CA 94102</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>5</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.426529,37.776261</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Liholiho Yacht Club</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_grn</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>13</value>
+          </Data>
+          <Data name="Clue">
+            <value>Aloha</value>
+          </Data>
+          <Data name="Answer">
+            <value>Liholiho Yacht Club</value>
+          </Data>
+          <Data name="Address">
+            <value>871 sutter street, san francisco, 94109</value>
+          </Data>
+          <Data name="Confidence">
+            <value>Low</value>
+          </Data>
+          <Data name="Point Value">
+            <value>5</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.414584,37.788235</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Boom Boom Room</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_grn</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>15</value>
+          </Data>
+          <Data name="Clue">
+            <value>We Like to Party</value>
+          </Data>
+          <Data name="Answer">
+            <value>Boom Boom Room</value>
+          </Data>
+          <Data name="Address">
+            <value>1601 Fillmore St, San Francisco, CA 94115</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>5</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.433166,37.784603</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Amoeba Music</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_grn</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>16</value>
+          </Data>
+          <Data name="Clue">
+            <value>Punk Protests</value>
+          </Data>
+          <Data name="Answer">
+            <value>Amoeba Music</value>
+          </Data>
+          <Data name="Address">
+            <value>1855 Haight St, San Francisco, CA 94117</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>5</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.452651,37.768948</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grandview Park</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_ylw</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>17</value>
+          </Data>
+          <Data name="Clue">
+            <value>Cowabunga Dude</value>
+          </Data>
+          <Data name="Answer">
+            <value>Grandview Park</value>
+          </Data>
+          <Data name="Address">
+            <value>1705 14th Ave San Francisco, CA 94122</value>
+          </Data>
+          <Data name="Confidence">
+            <value>Low</value>
+          </Data>
+          <Data name="Point Value">
+            <value>10</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.471279,37.756274</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Portals of the Past</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_ylw</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>18</value>
+          </Data>
+          <Data name="Clue">
+            <value>Lakeside Views</value>
+          </Data>
+          <Data name="Answer">
+            <value>Portals of the Past</value>
+          </Data>
+          <Data name="Address">
+            <value>760 John F Kennedy Dr San Francisco, CA 94122</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>10</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value>D40</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.481796,37.770023</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dynamo Donut</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_grn</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>19</value>
+          </Data>
+          <Data name="Clue">
+            <value>Homer's Power Source</value>
+          </Data>
+          <Data name="Answer">
+            <value>Dynamo Donut</value>
+          </Data>
+          <Data name="Address">
+            <value>2760 24th St, San Francisco, CA 94110</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>5</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value>S45</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.407660,37.753103</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Photo Order: 21, 34, 55, 89, 144</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_red</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>20</value>
+          </Data>
+          <Data name="Clue">
+            <value>Image investigator</value>
+          </Data>
+          <Data name="Answer">
+            <value>Photo Order: 21, 34, 55, 89, 144</value>
+          </Data>
+          <Data name="Address">
+            <value>740 Valencia St, San Francisco, CA 94110</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>15</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value>S45</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.421840,37.761026</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Benkyodo</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_ylw</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>21</value>
+          </Data>
+          <Data name="Clue">
+            <value>(In bed)</value>
+          </Data>
+          <Data name="Answer">
+            <value>Benkyodo</value>
+          </Data>
+          <Data name="Address">
+            <value>1747 Buchanan St, San Francisco, CA 94115</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>10</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value>S45</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.430246,37.786358</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tenderloin Museum</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_grn</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>24</value>
+          </Data>
+          <Data name="Clue">
+            <value>Smithsonian or MomA</value>
+          </Data>
+          <Data name="Answer">
+            <value>Tenderloin Museum</value>
+          </Data>
+          <Data name="Address">
+            <value>398 Eddy St, San Francisco, CA 94102</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>5</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.414183,37.783873</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Internet Archive</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_grn</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>25</value>
+          </Data>
+          <Data name="Clue">
+            <value>Wayback Machine</value>
+          </Data>
+          <Data name="Answer">
+            <value>Internet Archive</value>
+          </Data>
+          <Data name="Address">
+            <value>300 Funston Ave, San Francisco, CA 94118</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>5</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.471580,37.782319</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>57</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_wht</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>26</value>
+          </Data>
+          <Data name="Clue">
+            <value>SAT Math</value>
+          </Data>
+          <Data name="Answer">
+            <value>57</value>
+          </Data>
+          <Data name="Address">
+            <value>57 Miley St, San Francisco, CA 94123</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>20</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value>24, mi sqrt(5)/3r, le, 1/2, y, 5 or 7 = x</value>
+          </Data>
+          <Data name="Badge">
+            <value>SAT55</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.445456,37.797196</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tacolicious</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_ylw</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>27</value>
+          </Data>
+          <Data name="Clue">
+            <value>Taco Mission</value>
+          </Data>
+          <Data name="Answer">
+            <value>Tacolicious</value>
+          </Data>
+          <Data name="Address">
+            <value>741 Valencia St, San Francisco, CA 94110</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>10</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value>SP55</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.421369,37.760978</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SF Lawn Bowling Club</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_grn</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>28</value>
+          </Data>
+          <Data name="Clue">
+            <value>Lebowski's lawn</value>
+          </Data>
+          <Data name="Answer">
+            <value>SF Lawn Bowling Club</value>
+          </Data>
+          <Data name="Address">
+            <value>320 Bowling Green Dr, San Francisco, CA 94122</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>5</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.457642,37.768089</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_orange</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>29</value>
+          </Data>
+          <Data name="Clue">
+            <value>Smarter than 5th grader</value>
+          </Data>
+          <Data name="Answer">
+            <value></value>
+          </Data>
+          <Data name="Address">
+            <value>344 The Embarcadero, San Francisco, CA 94105</value>
+          </Data>
+          <Data name="Confidence">
+            <value>Low</value>
+          </Data>
+          <Data name="Point Value">
+            <value>25</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value>SAT55</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.397090,37.798838</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Peephole Cinema</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_ylw</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>31</value>
+          </Data>
+          <Data name="Clue">
+            <value>shh. not a peep.</value>
+          </Data>
+          <Data name="Answer">
+            <value>Peephole Cinema</value>
+          </Data>
+          <Data name="Address">
+            <value>280 Orange Alley, San Francisco, CA 94110</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>10</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value>D40</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.419913,37.749234</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Citrus Club</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_red</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>35</value>
+          </Data>
+          <Data name="Clue">
+            <value>ten ZITS</value>
+          </Data>
+          <Data name="Answer">
+            <value>Citrus Club</value>
+          </Data>
+          <Data name="Address">
+            <value>2823, 1790 Haight St, San Francisco, CA 94117</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>15</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.451621,37.769602</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tosca Cafe</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_ylw</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>36</value>
+          </Data>
+          <Data name="Clue">
+            <value>tree course opera</value>
+          </Data>
+          <Data name="Answer">
+            <value>Tosca Cafe</value>
+          </Data>
+          <Data name="Address">
+            <value>242 Columbus Ave, San Francisco, CA 94133</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>10</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.405874,37.797627</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stern Grove Concert Meadow</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_red</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>37</value>
+          </Data>
+          <Data name="Clue">
+            <value></value>
+          </Data>
+          <Data name="Answer">
+            <value>Stern Grove Concert Meadow</value>
+          </Data>
+          <Data name="Address">
+            <value>Stern Grove Festival, 19th Avenue and, Sloat Blvd, San Francisco, CA 94132</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>15</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.475228,37.734723</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Anagram of: BABBLEBACHLANKYTONE, 5, 7, 7</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_red</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>38</value>
+          </Data>
+          <Data name="Clue">
+            <value></value>
+          </Data>
+          <Data name="Answer">
+            <value>Anagram of: BABBLEBACHLANKYTONE, 5, 7, 7</value>
+          </Data>
+          <Data name="Address">
+            <value>678 Beach Blanket Babylon Boulevard, San Francisco, CA 94133</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>15</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value>Statue in sf for hamurrabi</value>
+          </Data>
+          <Data name="Badge">
+            <value></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.410274,37.799634</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eureka, Michael Jordan, https://www.instagram.com/p/BSHKLMpAJsr/ (Starr King Open Space Preserve)</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_ylw</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>39</value>
+          </Data>
+          <Data name="Clue">
+            <value>I've Got It</value>
+          </Data>
+          <Data name="Answer">
+            <value>Eureka, Michael Jordan, https://www.instagram.com/p/BSHKLMpAJsr/ (Starr King Open Space Preserve)</value>
+          </Data>
+          <Data name="Address">
+            <value>1215 Carolina St, San Francisco, CA 94107</value>
+          </Data>
+          <Data name="Confidence">
+            <value>Low</value>
+          </Data>
+          <Data name="Point Value">
+            <value>10</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value>A25</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.398939,37.753320</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SF Chronicle</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_ylw</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>40</value>
+          </Data>
+          <Data name="Clue">
+            <value>Z 340</value>
+          </Data>
+          <Data name="Answer">
+            <value>SF Chronicle</value>
+          </Data>
+          <Data name="Address">
+            <value>901 Mission St, San Francisco, CA 94103</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>10</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value>Could be SF Examiner</value>
+          </Data>
+          <Data name="Badge">
+            <value>U30</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.406663,37.782190</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>National Fitness Campaign</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_red</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>42</value>
+          </Data>
+          <Data name="Clue">
+            <value>Natl Fitness</value>
+          </Data>
+          <Data name="Answer">
+            <value>National Fitness Campaign</value>
+          </Data>
+          <Data name="Address">
+            <value>1400 Jefferson St, San Francisco, CA 94123</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>15</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.435805,37.805893</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>White Crane Springs</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_ylw</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>43</value>
+          </Data>
+          <Data name="Clue">
+            <value>Eden</value>
+          </Data>
+          <Data name="Answer">
+            <value>White Crane Springs</value>
+          </Data>
+          <Data name="Address">
+            <value>1620 7th Ave, San Francisco, CA 94122</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>10</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value>sing a song</value>
+          </Data>
+          <Data name="Badge">
+            <value></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.463527,37.758264</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Columbus Tower</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_grn</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>44</value>
+          </Data>
+          <Data name="Clue">
+            <value>Building with urine</value>
+          </Data>
+          <Data name="Answer">
+            <value>Columbus Tower</value>
+          </Data>
+          <Data name="Address">
+            <value>900 Kearny St, San Francisco, CA 94133</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>5</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.405050,37.796480</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Odd Fellows Temple</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_grn</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>46</value>
+          </Data>
+          <Data name="Clue">
+            <value>Not even</value>
+          </Data>
+          <Data name="Answer">
+            <value>Odd Fellows Temple</value>
+          </Data>
+          <Data name="Address">
+            <value>90 7th St, San Francisco, CA 94103</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>5</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.411951,37.779385</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Esmerelda State Park</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_ylw</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>47</value>
+          </Data>
+          <Data name="Clue">
+            <value>A True Emerald</value>
+          </Data>
+          <Data name="Answer">
+            <value>Esmerelda State Park</value>
+          </Data>
+          <Data name="Address">
+            <value>Winfield St &amp; Esmeralda Ave, San Francisco, CA 94110</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>10</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value>D40</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.418008,37.743451</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Korean War Memorial</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_grn</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>48</value>
+          </Data>
+          <Data name="Clue">
+            <value>Cemetary Buddy</value>
+          </Data>
+          <Data name="Answer">
+            <value>Korean War Memorial</value>
+          </Data>
+          <Data name="Address">
+            <value>Korean War Memorial, Lincoln Blvd, San Francisco, CA 94129</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>5</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value>U30</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.461007,37.801169</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A runner's mind</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_ylw</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>50</value>
+          </Data>
+          <Data name="Clue">
+            <value>run brain</value>
+          </Data>
+          <Data name="Answer">
+            <value>A runner's mind</value>
+          </Data>
+          <Data name="Address">
+            <value>3575 Sacramento St, San Francisco, CA 94118</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>10</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value>SP55</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.451435,37.787427</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Circus Center</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_grn</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>51</value>
+          </Data>
+          <Data name="Clue">
+            <value>Balancing Act</value>
+          </Data>
+          <Data name="Answer">
+            <value>Circus Center</value>
+          </Data>
+          <Data name="Address">
+            <value>755 Frederick St, San Francisco, CA 94117</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>5</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.456941,37.765580</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Carl &amp; Willard</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_ylw</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>52</value>
+          </Data>
+          <Data name="Clue">
+            <value>Carl Lewis</value>
+          </Data>
+          <Data name="Answer">
+            <value>Carl &amp; Willard</value>
+          </Data>
+          <Data name="Address">
+            <value>301 Carl St, San Francisco, CA 94117</value>
+          </Data>
+          <Data name="Confidence">
+            <value>Medium</value>
+          </Data>
+          <Data name="Point Value">
+            <value>10</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value>D40</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.454553,37.764976</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Diamond Heights</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_grn</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>53</value>
+          </Data>
+          <Data name="Clue">
+            <value>Enlightening</value>
+          </Data>
+          <Data name="Answer">
+            <value>Diamond Heights</value>
+          </Data>
+          <Data name="Address">
+            <value>199 Museum Way, San Francisco, CA 94114</value>
+          </Data>
+          <Data name="Confidence">
+            <value>Low</value>
+          </Data>
+          <Data name="Point Value">
+            <value>5</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.438319,37.764426</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>19th &amp; Lawton</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_wht</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>54</value>
+          </Data>
+          <Data name="Clue">
+            <value>Act Math</value>
+          </Data>
+          <Data name="Answer">
+            <value>19th &amp; Lawton</value>
+          </Data>
+          <Data name="Address">
+            <value>19th &amp; Lawton, san francisco, ca</value>
+          </Data>
+          <Data name="Confidence">
+            <value>Medium</value>
+          </Data>
+          <Data name="Point Value">
+            <value>20</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value>x=17, y=-1</value>
+          </Data>
+          <Data name="Badge">
+            <value></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.476644,37.757977</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Francisco National Cemetery</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_red</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>55</value>
+          </Data>
+          <Data name="Clue">
+            <value>Dust in the Wind</value>
+          </Data>
+          <Data name="Answer">
+            <value>San Francisco National Cemetery</value>
+          </Data>
+          <Data name="Address">
+            <value>1 Lincoln Blvd, San Francisco, CA 94129</value>
+          </Data>
+          <Data name="Confidence">
+            <value>Medium</value>
+          </Data>
+          <Data name="Point Value">
+            <value>15</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value>SAT55</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.462814,37.801139</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Robin Williams</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_grn</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>56</value>
+          </Data>
+          <Data name="Clue">
+            <value>Gazing Out</value>
+          </Data>
+          <Data name="Answer">
+            <value>Robin Williams</value>
+          </Data>
+          <Data name="Address">
+            <value>1051 Market St, San Francisco, CA 94103</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>5</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value>A25</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.411110,37.781170</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tartine Bakery</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_ylw</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>57</value>
+          </Data>
+          <Data name="Clue">
+            <value>Original Mobius Bread</value>
+          </Data>
+          <Data name="Answer">
+            <value>Tartine Bakery</value>
+          </Data>
+          <Data name="Address">
+            <value>600 Guerrero St, San Francisco, CA 94110</value>
+          </Data>
+          <Data name="Confidence">
+            <value>Medium</value>
+          </Data>
+          <Data name="Point Value">
+            <value>10</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value>S45</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.424093,37.761437</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vulcan Stairs</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_grn</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>58</value>
+          </Data>
+          <Data name="Clue">
+            <value>Spock On</value>
+          </Data>
+          <Data name="Answer">
+            <value>Vulcan Stairs</value>
+          </Data>
+          <Data name="Address">
+            <value>Vulcan Stairs, San Francisco, CA 94114</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>5</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.441143,37.763512</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Part of Us / Crooked Street</name>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_ylw</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>59</value>
+          </Data>
+          <Data name="Clue">
+            <value>Perspective</value>
+          </Data>
+          <Data name="Answer">
+            <value>Part of Us / Crooked Street</value>
+          </Data>
+          <Data name="Address">
+            <value>1099 Lombard St, San Francisco, CA 94109</value>
+          </Data>
+          <Data name="Confidence">
+            <value>Medium</value>
+          </Data>
+          <Data name="Point Value">
+            <value>10</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.419770,37.802027</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <visibility>1</visibility>
+        <styleUrl>#regularStyle_ylw</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>60</value>
+          </Data>
+          <Data name="Clue">
+            <value>Worth of a gold</value>
+          </Data>
+          <Data name="Answer">
+            <value></value>
+          </Data>
+          <Data name="Address">
+            <value>Spire, Arguello Blvd, San Francisco, CA 94129</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>10</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>FALSE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value>S45</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.460036,37.791913</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Mini Hunts</name>
+      <visibility>1</visibility>
+      <Placemark>
+        <name>El Inmigrante Mural, Time is 3:01 +- 1m</name>
+        <visibility>1</visibility>
+        <styleUrl>#miniHuntStyle_red</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>2</value>
+          </Data>
+          <Data name="Clue">
+            <value>On the Run</value>
+          </Data>
+          <Data name="Answer">
+            <value>El Inmigrante Mural, Time is 3:01 +- 1m</value>
+          </Data>
+          <Data name="Address">
+            <value>Shotwell and 23rd, San Francisco, CA 94109</value>
+          </Data>
+          <Data name="Confidence">
+            <value>Medium</value>
+          </Data>
+          <Data name="Point Value">
+            <value>15</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>TRUE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value>SAT55</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.415349,37.754043</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duboce Park</name>
+        <visibility>1</visibility>
+        <styleUrl>#miniHuntStyle_ylw</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>14</value>
+          </Data>
+          <Data name="Clue">
+            <value>Ya Botched It!</value>
+          </Data>
+          <Data name="Answer">
+            <value>Duboce Park</value>
+          </Data>
+          <Data name="Address">
+            <value>Duboce Park, San Francisco, CA 94117</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>10</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>TRUE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value>SP55</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.433214,37.769551</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2454 is the missing number</name>
+        <visibility>1</visibility>
+        <styleUrl>#miniHuntStyle_grn</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>22</value>
+          </Data>
+          <Data name="Clue">
+            <value>Three Points</value>
+          </Data>
+          <Data name="Answer">
+            <value>2454 is the missing number</value>
+          </Data>
+          <Data name="Address">
+            <value>2454 Market St, San Francisco, CA 94114</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>5</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>TRUE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.436101,37.762380</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>REI</name>
+        <visibility>1</visibility>
+        <styleUrl>#miniHuntStyle_ylw</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>23</value>
+          </Data>
+          <Data name="Clue">
+            <value>S'mores and more</value>
+          </Data>
+          <Data name="Answer">
+            <value>REI</value>
+          </Data>
+          <Data name="Address">
+            <value>840 Brannan St, San Francisco, CA 94103</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>10</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>TRUE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value>SP55</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.404392,37.772337</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>the thing on the guys monument</name>
+        <visibility>1</visibility>
+        <styleUrl>#miniHuntStyle_grn</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>30</value>
+          </Data>
+          <Data name="Clue">
+            <value>conical hundred</value>
+          </Data>
+          <Data name="Answer">
+            <value>the thing on the guys monument</value>
+          </Data>
+          <Data name="Address">
+            <value>Century Pl, San Francisco, CA 94104</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>5</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>TRUE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.401662,37.792030</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shakespeare Garden</name>
+        <visibility>1</visibility>
+        <styleUrl>#miniHuntStyle_grn</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>32</value>
+          </Data>
+          <Data name="Clue">
+            <value>Oh, Romeo</value>
+          </Data>
+          <Data name="Answer">
+            <value>Shakespeare Garden</value>
+          </Data>
+          <Data name="Address">
+            <value>335 Martin Luther King Jr Dr, San Francisco, CA 94118</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>5</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>TRUE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.467979,37.768761</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oracle Park</name>
+        <visibility>1</visibility>
+        <styleUrl>#miniHuntStyle_grn</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>33</value>
+          </Data>
+          <Data name="Clue">
+            <value>Peanuts and crackerjacks</value>
+          </Data>
+          <Data name="Answer">
+            <value>Oracle Park</value>
+          </Data>
+          <Data name="Address">
+            <value>24 Willie Mays Plaza, San Francisco, CA 94107</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>5</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>TRUE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.390621,37.778420</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Farley's</name>
+        <visibility>1</visibility>
+        <styleUrl>#miniHuntStyle_grn</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>41</value>
+          </Data>
+          <Data name="Clue">
+            <value>Tommy Boy</value>
+          </Data>
+          <Data name="Answer">
+            <value>Farley's</value>
+          </Data>
+          <Data name="Address">
+            <value>1315 18th St, San Francisco, CA 94107</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>5</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>TRUE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.395996,37.762472</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Finnegan's Wake</name>
+        <visibility>1</visibility>
+        <styleUrl>#miniHuntStyle_grn</styleUrl>
+        <ExtendedData>
+          <Data name="Clue #">
+            <value>49</value>
+          </Data>
+          <Data name="Clue">
+            <value>Bar Code</value>
+          </Data>
+          <Data name="Answer">
+            <value>Finnegan's Wake</value>
+          </Data>
+          <Data name="Address">
+            <value>937 Cole St, San Francisco, CA 94117</value>
+          </Data>
+          <Data name="Confidence">
+            <value>High</value>
+          </Data>
+          <Data name="Point Value">
+            <value>5</value>
+          </Data>
+          <Data name="Mini Hunt">
+            <value>TRUE</value>
+          </Data>
+          <Data name="Notes">
+            <value></value>
+          </Data>
+          <Data name="Badge">
+            <value></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-122.450063,37.765297</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
+
